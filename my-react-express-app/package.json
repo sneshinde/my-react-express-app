@@ -30,7 +30,7 @@
     "express": "^4.16.3",
     "highground": "^1.0.3-beta",
     "jest": "^23.6.0",
-    "mongodb": "^3.1.10",
+    "mongodb": "^3.1.13",
     "nodemon": "^1.18.4",
     "react-router-dom": "^4.3.1",
     "style-loader": "^0.23.0",
