@@ -27,7 +27,7 @@
     "concurrently": "^4.0.1",
     "cors": "^2.8.4",
     "cross-env": "^5.2.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "highground": "^1.0.3-beta",
     "jest": "^23.6.0",
     "mongodb": "^3.1.10",
